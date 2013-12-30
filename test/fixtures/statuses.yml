@@ -3,7 +3,9 @@
 one:
 
   content: MyText
+  user: petrik
 
 two:
 
   content: MyText
+  user: petrik
