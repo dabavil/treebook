@@ -18,6 +18,12 @@ test "that /register route opens the register page" do
 	assert_response :success
 end
 
+test "that a profile page is accessible" do
+	get '/Jason'
+	assert_response :success
+end
+
+
 
   # test "the truth" do
   #   assert true
